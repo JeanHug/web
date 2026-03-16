@@ -1,0 +1,10 @@
+# requirements.txt
+flask==3.0.0
+gunicorn==21.2.0
+requests==2.31.0
+httpx==0.25.2
+mechanicalsoup==0.12.0
+beautifulsoup4==4.12.2
+selenium==4.16.0
+playwright==1.40.0
+pyppeteer==2.0.0
